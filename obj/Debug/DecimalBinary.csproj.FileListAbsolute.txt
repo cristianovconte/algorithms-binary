@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\DecimalBinary\DecimalBinary\bin\Debug\DecimalBinary.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\DecimalBinary\DecimalBinary\bin\Debug\DecimalBinary.exe
+c:\users\administrator\documents\visual studio 2015\Projects\DecimalBinary\DecimalBinary\bin\Debug\DecimalBinary.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\DecimalBinary\DecimalBinary\obj\Debug\DecimalBinary.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\DecimalBinary\DecimalBinary\obj\Debug\DecimalBinary.exe
+c:\users\administrator\documents\visual studio 2015\Projects\DecimalBinary\DecimalBinary\obj\Debug\DecimalBinary.pdb
